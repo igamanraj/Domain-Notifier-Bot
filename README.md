@@ -840,7 +840,7 @@ See the `LICENSE` file for details.
 
 # 👨‍💻 Author
 
-**Aman Raj**
+**Aman Raidas**
 
 GitHub:
 
