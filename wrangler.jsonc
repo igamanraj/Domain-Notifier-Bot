@@ -1,0 +1,19 @@
+{
+  "name": "domain-notifier-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-18",
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "domain-notifier-db",
+      "database_id": "d18d5305-9ed3-4b85-9d4f-9ba631489e05"
+    }
+  ],
+
+  "triggers": {
+    "crons": [
+      "0 0,12 * * *"
+    ]
+  }
+}
